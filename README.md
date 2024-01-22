@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm jeff makuto</h1>
 <h3 align="center">Results-oriented Software Engineer with a strong background in network analysis, programming, and cybersecurity. Demonstrated expertise in improving network performance and implementing risk management strategies.</h3>
-<img align="right" alt="Coding" width="400" scr="[https://towardsdatascience.com/malware-analysis-with-visual-pattern-recognition-5a4d087c9d26](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gqa6vsqbrwjwshxau6wrc2hzyc89tbyg3kfk0w20&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **my CultivateConnections application**
 
