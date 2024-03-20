@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my CultivateConnections application**
 
-- 🌱 I’m currently learning **Backend Engineering, Malware Analysis**
+- 🌱 I’m currently learning **Backend Engineering, Malware Analysis & Reverse Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
