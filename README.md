@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm jeff makuto</h1>
 <h3 align="center">Results-oriented Engineer with a strong background in data protection & compliance, programming, cybersecurity and data analysis. Demonstrated expertise in implementing data protection strategies and extracting actionable insights from complex datasets.
 
+
 Skills
 Programming: Proficient (Assembly—x86 & ARM, C, Python) | Familiar (Bash, Javascript, R, SQL, Puppet, Fabric)
 Data Protection: DPIA (Data Protection Impact Assessment), Data Encryption Standards, GDPR & DPA Act 2019 Compliance, Secure Data Handling
