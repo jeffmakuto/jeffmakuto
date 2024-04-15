@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jeff makuto</h1>
 <h3 align="center">Results-oriented Engineer with a strong background in network analysis, data analysis, programming, and cybersecurity. Demonstrated expertise in extracting actionable insights from complex datasets, improving network performance and implementing risk management & data protection strategies.</h3>
 
-- 🔭 I’m currently working on **my CultivateConnections application**
+- 🔭 I’m currently working on **my SavvySprint application**
 
 - 🌱 I’m currently learning **Backend Engineering, Malware Analysis & Reverse Engineering**
 
