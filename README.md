@@ -3,14 +3,14 @@
 <br>
 <br>
 Skills
-Programming: Proficient (Assembly—x86 & ARM, C, Python) | Familiar (Bash, Javascript, R, SQL, Puppet, Fabric)<br>
+Programming: Proficient (C, Python) | Familiar (Bash, Javascript, R, SQL, Puppet, Fabric)<br>
 Data Protection: DPIA (Data Protection Impact Assessment), Data Encryption Standards, GDPR & DPA Act 2019 Compliance, Secure Data Handling<br>
 Risk Management: ISO 31000, COSO Framework, NIST Standards, ISO 27001<br>
 Multilingual: Fluent in English, Kiswahili and German</h3><br>
 
 - 🔭 I’m currently working on **my SavvySprint application**
 
-- 🌱 I’m currently learning **Backend Engineering, Malware Analysis & Reverse Engineering**
+- 🌱 I’m currently learning **Backend Engineering, Privacy Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
