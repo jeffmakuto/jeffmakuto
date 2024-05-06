@@ -8,8 +8,6 @@ Data Protection: DPIA (Data Protection Impact Assessment), Data Encryption Stand
 Risk Management: ISO 31000, COSO Framework, NIST Standards, ISO 27001<br>
 Multilingual: Fluent in English, Kiswahili and German</h3><br>
 
-- 🔭 I’m currently working on **my SavvySprint application**
-
 - 🌱 I’m currently learning **Backend Engineering, Privacy Engineering**
 
 <h3 align="left">Connect with me:</h3>
