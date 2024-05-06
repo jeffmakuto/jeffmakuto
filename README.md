@@ -3,7 +3,7 @@
 <br>
 <br>
 Skills
-Programming: Proficient (C, Python) | Familiar (Bash, Javascript, R, SQL, Puppet, Fabric)<br>
+Programming: Proficient (Python, Javascript) | Familiar (Bash, C, R, SQL, Puppet, Fabric)<br>
 Data Protection: DPIA (Data Protection Impact Assessment), Data Encryption Standards, GDPR & DPA Act 2019 Compliance, Secure Data Handling<br>
 Risk Management: ISO 31000, COSO Framework, NIST Standards, ISO 27001<br>
 Multilingual: Fluent in English, Kiswahili and German</h3><br>
