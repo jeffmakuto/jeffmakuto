@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm jeff makuto</h1>
-<h3 align="center">Results-oriented Engineer with a strong background in data protection & compliance, programming, cybersecurity and data analysis. Demonstrated expertise in implementing data protection strategies and extracting actionable insights from complex datasets.
+<h3 align="center">I am a dedicated and results-oriented Engineer specializing in data privacy, with expertise in data protection and compliance, programming, cyber security, and data analysis. I excel in executing Data Protection Impact Assessments (DPIA) and Transfer Impact Assessments (TIA), and I am well-versed in data encryption standards and data privacy laws and regulations in 4 continents (36 countries); Kenya, the EU, UK, China, USA etc. My role invloves creating data privacy awareness, enhancing data privacy measures, and striving to uphold the highest standards of data security, integrity and confidentiality.
 <br>
 <br>
 Skills
-Programming: Proficient (Python, Javascript) | Familiar (Bash, C, R, SQL, Puppet, Fabric)<br>
-Data Protection: DPIA (Data Protection Impact Assessment), Data Encryption Standards, GDPR & DPA Act 2019 Compliance, Secure Data Handling<br>
-Risk Management: ISO 31000, COSO Framework, NIST Standards, ISO 27001<br>
+Data Protection & Privacy: Data Protection Impact Assessment (DPIA); Transfer Impact Assessment (TIA); Data Encryption Standards; EU-GDPR, UK-GDPR, Kenya DPA, Rwanda DPPL, South Africa POPIA, US SHIELD Act, China PIPL, Thailand DPA, Dubai PDPL etc; Secure Data Handling<br>
+Programming: Proficient (Python, JavaScript); Familiar (Bash, C, R, SQL, Puppet, Fabric)<br>
+Frameworks: Proficient (FastAPI, React, React Native); Familiar (Flask, Django, Vue.js)<br>
 Multilingual: Fluent in English, Kiswahili and German</h3><br>
 
 - 🌱 I’m currently learning **Backend Engineering, Privacy Engineering**
