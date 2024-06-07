@@ -20,9 +20,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="Puppet" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/fabric/fabric-icon.svg" alt="Fabric" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="FastAPI" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
