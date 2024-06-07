@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jeff makuto</h1>
-<h3 align="center">I am a dedicated and results-oriented Engineer specializing in data privacy, with expertise in data protection and compliance, programming, cyber security, and data analysis. I excel in executing Data Protection Impact Assessments (DPIA) and Transfer Impact Assessments (TIA), and I am well-versed in data encryption standards and data privacy laws and regulations in 4 continents (36 countries); Kenya, the EU, UK, China, USA etc. My role invloves creating data privacy awareness, enhancing data privacy measures, and striving to uphold the highest standards of data security, integrity and confidentiality.
+<h3 align="center">I am a dedicated and results-oriented Engineer specializing in data privacy, with expertise in data protection and compliance, programming, cyber security, and data analysis.
 <br>
 <br>
 Skills
