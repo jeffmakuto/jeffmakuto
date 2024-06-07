@@ -2,7 +2,7 @@
 <h3 align="center">I am a dedicated and results-oriented Engineer specializing in data privacy, with expertise in data protection and compliance, programming, cyber security, and data analysis.
 <br>
 <br>
-Skills<br>
+**Skills**<br>
 Data Protection & Privacy: Data Protection Impact Assessment (DPIA); Transfer Impact Assessment (TIA); Data Encryption Standards; EU-GDPR, UK-GDPR, Kenya DPA, Rwanda DPPL, South Africa POPIA, US SHIELD Act, China PIPL, Thailand DPA, Dubai PDPL etc; Secure Data Handling<br>
 Programming: Proficient (Python, JavaScript); Familiar (Bash, C, R, SQL, Puppet, Fabric)<br>
 Frameworks: Proficient (FastAPI, React, React Native); Familiar (Flask, Django, Vue.js)<br>
