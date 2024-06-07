@@ -8,8 +8,6 @@
 <strong>Frameworks</strong>: Proficient (<strong>FastAPI, React, React Native</strong>); Familiar (<strong>Flask, Django, Vue.js</strong>)<br>
 <strong>Multilingual</strong>: Fluent in <strong>English, Kiswahili</strong> and <strong>German</strong></h3><br>
 
-- 🌱 I’m currently learning <strong>Backend Engineering, Privacy Engineering</strong>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jeff-makuto-67298030b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffmakuto" height="30" width="40" /></a>
